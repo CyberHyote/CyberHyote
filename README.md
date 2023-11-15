@@ -15,7 +15,18 @@
 <h2><h2>
 
 <h2> 🔎About Me!:</h2>
--  🗡 Skills  I have developed : Time Management, Strong Written and Verbal Communication,
+    Thank you for your time reviewing my portfolio!
+I'm Seth. I’m a personally motivated person. I can adapt to stressful situations and environments in my life and I’m always wanting to learn more anywhere I go carrer wise.
+
+I’m wanting to strengthen my knowledge on operating systems and computer programming and help protect everyday people from financial harm. I want to expand my verbal and technical vocabulary so that I can better prepare friends and family about potential threats they may come across online.
+
+<h2>🎆What I strive to Accomplish in a Cybersecutiy career🎇:</h2>
+
+Protecting everyday people against threats that come with having modern technology which is one why or another connected to the internet or security systems in their homes. 
+Being able to help companies protect their clients from attacks, internal or external.
+Helping create new advancements to security protocols and laws.
+
+-   🗡 Skills  I have developed : Time Management, Strong Written and Verbal Communication,
 
 -  💪🏽 Personal goals and values: Learning to protect personal assets of everyday people, and upholding laws.
 
@@ -27,7 +38,7 @@
 
 - 🙋🏽‍♂️ I’m looking for help with : N/A
 
-- 💬 Ask me about :
+- 💬 Ask me about : Personal projects, career opportunities, better ways to connect with me.
 
 - 📫 How to reach me: 📨 Email: Seth97c@gmail.com, 📳 Call/Txt: +1 803-293-6599
 
@@ -35,9 +46,5 @@
 
 - 🧙🏽‍♂️ What intrests me! : Learning programming languages, working with teams that fight against fraud involving personally identifiable information, or SPII.
 
-<h2>🎆What I strive to Accomplish in a Cybersecutiy career🎇:</h2>
 
-Protecting everyday people against threats that come with having modern technology which is one why or another connected to the internet or security systems in their homes. 
-Being able to help companies protect their clients from attacks, internal or external.
-Helping create new advancements to security protocols and laws.
 
