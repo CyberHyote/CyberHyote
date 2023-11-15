@@ -17,7 +17,7 @@
 <h2> 🔎About Me!:</h2>
     Thank you for your time reviewing my portfolio!
 I'm Seth. I’m a personally motivated person. I can adapt to stressful situations and environments in my life and I’m always wanting to learn more anywhere I go carrer wise.
-
+I enjoy working with teams or alone, passionate about helping solve problems simple or complex.
 I’m wanting to strengthen my knowledge on operating systems and computer programming and help protect everyday people from financial harm. I want to expand my verbal and technical vocabulary so that I can better prepare friends and family about potential threats they may come across online.
 
 <h2>🎆What I strive to Accomplish in a Cybersecutiy career🎇:</h2>
