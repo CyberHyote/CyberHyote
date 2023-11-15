@@ -17,7 +17,7 @@
 <h2> 🔎About Me!:</h2>
 -  🗡 Skills  I have developed : Time Management, Strong Written and Verbal Communication,
 
--  💪🏽 Personal goals and values: Learning to prtect personal assets of everyday people, and upholding laws.
+-  💪🏽 Personal goals and values: Learning to protect personal assets of everyday people, and upholding laws.
 
 -  🌠I’m currently working on : Google Cybersecurity Professional Certificate
 
@@ -33,11 +33,11 @@
 
 - 🐱‍👤 Pronouns: He/Him/His
 
-- 🧙🏽‍♂️ What intrests me! : Learning programing laungagues, working with teams that fight aginst fraud invloving personally identifiable information, or SPII.
+- 🧙🏽‍♂️ What intrests me! : Learning programming languages, working with teams that fight against fraud involving personally identifiable information, or SPII.
 
-<h2>🎆What I strive to Accopmlish in a Cybersecutiy career🎇:</h2>
+<h2>🎆What I strive to Accomplish in a Cybersecutiy career🎇:</h2>
 
-Protecting everyday people aginst threats that come with having modern technolgy which is one why or another connected to the internet or security systems in their homes. 
-Being able to help companies protect their clients from attacks, internal or exteral.
-Helping create new advancments to security protocals and laws.
+Protecting everyday people against threats that come with having modern technology which is one why or another connected to the internet or security systems in their homes. 
+Being able to help companies protect their clients from attacks, internal or external.
+Helping create new advancements to security protocols and laws.
 
