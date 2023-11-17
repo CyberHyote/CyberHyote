@@ -1,7 +1,7 @@
 <h1> Howdy! I'm Seth,
 
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
-
+Conducting a Security Audit Activity: 
 <h2> 📃 Certificates:</h2>
 
 <h2>📱 Other Sites and Connections 🖥</h2>
