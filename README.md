@@ -2,8 +2,11 @@
 
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
 Conducting a Security Audit Activity: 
+
 <h2> 📃 Certificates:</h2>
-[Play It Safe: Mangage Security Risks](https://coursera.org/share/840caf0f0d3f9431544ac7b8f98e656f)
+
+[Play It Safe:Mangage Security Risks](https://coursera.org/share/840caf0f0d3f9431544ac7b8f98e656f)
+
 <h2>📱 Other Sites and Connections 🖥</h2>
 
 [<img align="left" alt="CyberHyote | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
