@@ -1,11 +1,14 @@
 <h1> Howdy! I'm Seth,
 
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
-Conducting a Security Audit Activity: 
+
+- [Conducting a Security Audit Activity](https://docs.google.com/document/d/1kFumMEIM8gstjMAvVZxA7wJ_2JbPrMzcjFWrkqiDSWM/edit?usp=sharing) 
 
 <h2> 📃 Certificates:</h2>
 
-[Play It Safe:Mangage Security Risks](https://coursera.org/share/840caf0f0d3f9431544ac7b8f98e656f)
+- [Foundations Of Cyberceurity](https://coursera.org/share/303ebd0b52687d5addbdd0352c0077ce)
+
+- [Play It Safe:Mangage Security Risks](https://coursera.org/share/840caf0f0d3f9431544ac7b8f98e656f)
 
 <h2>📱 Other Sites and Connections 🖥</h2>
 
