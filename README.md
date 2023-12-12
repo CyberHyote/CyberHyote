@@ -18,6 +18,7 @@
 [<img align="left" alt="CyberHyote | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/cyberhyote/)
 
 
+
 <h2><h2>
 
 <h2> 🔎About Me!:</h2>
@@ -46,7 +47,7 @@ Helping create new advancements to security protocols and laws.
 
 - 💬 Ask me about : Personal projects, career opportunities, better ways to connect with me.
 
-- 📫 How to reach me: 📨 Email: Seth97c@gmail.com, 📳 Call/Txt: +1 803-293-6599
+- 📫 How to reach me: [📨 Email](Seth97c@gmail.com) 📳 Call/Txt: +1 803-293-6599
 
 - 🐱‍👤 Pronouns: He/Him/His
 
