@@ -12,11 +12,11 @@
 
 <h2>📱 Other Sites and Connections 🖥</h2>
 
-[<img align="left" alt="CyberHyote | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="CyberHyote | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="CyberHyote | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCZfn-o9mHe0-SW1rvoHocYw)
 
-[youtube]: https://www.youtube.com/channel/UCZfn-o9mHe0-SW1rvoHocYw
-[instagram]: https://www.instagram.com/cyberhyote/
+
+[<img align="left" alt="CyberHyote | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/cyberhyote/)
+
 
 <h2><h2>
 
